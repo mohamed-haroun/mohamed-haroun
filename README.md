@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohamed-haroun
+- 👋 Hi, I’m <h1>Mohamed Haroun</h1>
 - 👀 I’m interested in Creating Creative web applications
 - 🌱 I’m currently learning PHP, JavaScript, MySQL, Laravel
 - 💞️ I’m looking to collaborate on large projects such as laravel
